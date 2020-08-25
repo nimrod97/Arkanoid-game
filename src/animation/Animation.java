@@ -3,7 +3,6 @@ package animation;
 import biuoop.DrawSurface;
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 /**
