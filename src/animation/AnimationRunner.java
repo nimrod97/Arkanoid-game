@@ -6,7 +6,6 @@ import biuoop.Sleeper;
 
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 /**
