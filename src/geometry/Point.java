@@ -1,7 +1,6 @@
 package geometry;
 /**
  * @author Nimrod Gabbay
- * ID: 318322484
  */
 /**
  * setting the class of "point".
