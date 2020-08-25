@@ -4,7 +4,6 @@ import sprites.Ball;
 import sprites.Block;
 /**
  * @author Nimrod Gabbay
- * ID: 318322484
  */
 
 /**
