@@ -9,7 +9,6 @@ import geometry.Velocity;
 
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 
