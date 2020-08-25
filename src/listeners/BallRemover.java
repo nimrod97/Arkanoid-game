@@ -6,7 +6,6 @@ import sprites.Block;
 import sprites.Counter;
 /**
  * @author Nimrod Gabbay
- * ID: 318322484
  */
 
 /**
