@@ -4,7 +4,6 @@ import biuoop.DrawSurface;
 import biuoop.KeyboardSensor;
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 /**
