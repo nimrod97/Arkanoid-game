@@ -6,7 +6,6 @@ import sprites.SpriteCollection;
 
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 /**
