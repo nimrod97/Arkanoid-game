@@ -1,7 +1,6 @@
 package geometry;
 /**
  * @author Nimrod Gabbay
- * ID: 318322484
  */
 
 import java.util.List;
