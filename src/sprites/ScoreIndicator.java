@@ -5,7 +5,6 @@ import biuoop.DrawSurface;
 import java.awt.Color;
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 /**
