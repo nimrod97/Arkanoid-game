@@ -2,7 +2,6 @@ package sprites;
 
 /**
  * @author Nimrod Gabbay
- * ID 318322484
  */
 
 /**
